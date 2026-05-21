@@ -1,0 +1,23 @@
+lib/compress/inference.js
+  dad5c7f061147c14 533-534
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "21d79aca9e902e112ca1f2eb7282bbb834f0f857",
+  "prompts": {
+    "dad5c7f061147c14": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1b4d97c7effe3OSBy5pCPCglfF",
+        "model": "anthropic/claude-opus-4-7"
+      },
+      "human_author": "Guy Bedford",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 3,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
