@@ -1,0 +1,25 @@
+lib/equivalent-to.js
+  dc754edeaca68e8a 197-200,206
+lib/compress/inference.js
+  dc754edeaca68e8a 408
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "ef6d2def879992db914767952b34d6e82458e5a8",
+  "prompts": {
+    "dc754edeaca68e8a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1b48dc937ffeqvEUwHIxes9tb8",
+        "model": "anthropic/claude-opus-4-7"
+      },
+      "human_author": "Guy Bedford",
+      "messages": [],
+      "total_additions": 6,
+      "total_deletions": 6,
+      "accepted_lines": 6,
+      "overriden_lines": 0
+    }
+  }
+}
